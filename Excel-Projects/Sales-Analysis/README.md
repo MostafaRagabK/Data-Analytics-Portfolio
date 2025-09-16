@@ -40,7 +40,7 @@ The West region has the highest sales, followed by East, Central, and South.
 Insights or Next Steps
 Focus on promoting high-profit sub-categories like Copiers, Phones, and Accessories while investigating and addressing the reasons for losses in sub-categories like Tables and Bookcases.
 Leverage the overall growth trend and strong regional performance (West and East) through targeted expansion and marketing, while also exploring opportunities to improve performance in lower-performing regions (Central and South).
-<img width="2671" height="492" alt="image" src="https://github.com/user-attachments/assets/6f5bc196-b73f-4150-a79b-e9ef478ff339" />
+
 
  
-- عربي: المنتج A حقق أعلى مبيعات في الربع التاني.
+
