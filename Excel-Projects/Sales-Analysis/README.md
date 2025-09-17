@@ -1,4 +1,4 @@
-# 📊 Sales Analysis Project 
+# 📊 Sales & Profit Analysis Project 
 
 ## 🔹 Description 
 -  This project analyzes sales data using Excel to identify top-performing products, regions, and time periods.  
