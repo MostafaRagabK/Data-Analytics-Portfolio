@@ -28,7 +28,7 @@
 ---
 
 ## ✅ Key Insights 
-Summary:
+## Summary:
 Data Analysis Key Findings
 There were no missing values in the dataset.
 Numerical columns like 'Sales' and 'Profit' showed a significant difference between their mean and maximum values, suggesting the presence of outliers, which were confirmed visually through box plots. These outliers were deemed valid transactions and not removed.
@@ -40,7 +40,7 @@ Sales are highest in the Technology category, followed by Furniture and Office S
 Copiers, Phones, and Accessories are the most profitable sub-categories, while Tables and Bookcases are the least profitable or incur losses.
 Both Sales and Profit show an increasing trend over time, with some seasonality.
 The West region has the highest sales, followed by East, Central, and South.
-Insights or Next Steps
+## Insights or Next Steps
 Focus on promoting high-profit sub-categories like Copiers, Phones, and Accessories while investigating and addressing the reasons for losses in sub-categories like Tables and Bookcases.
 Leverage the overall growth trend and strong regional performance (West and East) through targeted expansion and marketing, while also exploring opportunities to improve performance in lower-performing regions (Central and South).
 
