@@ -22,6 +22,8 @@
 ## 📸 Sample Output 
 
 ![11](https://github.com/user-attachments/assets/c23e1d78-3c6b-44d8-be35-43f952754c0a)
+![Sales](https://github.com/user-attachments/assets/25ed64e4-1022-47b5-b245-fd40d6b5cf29)
+
 
 ---
 
